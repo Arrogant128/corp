@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Scale",
 };
 export default function Scale() {
-  let contentObj = {
+  const contentObj = {
     imgUrl: scaleSrc,
     altTxt: "scale Image",
     content: "Welcome to the scale page!"

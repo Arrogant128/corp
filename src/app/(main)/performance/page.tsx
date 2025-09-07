@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Performance",
 };
 export default function Performance() {
-  let contentObj = {
+  const contentObj = {
     imgUrl: performanceSrc,
     altTxt: "performanceSrc Image",
     content: "Welcome to the performance page!",

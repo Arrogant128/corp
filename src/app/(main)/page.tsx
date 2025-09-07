@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Home",
 };
 export default function Home() {
-  let contentObj = {
+  const contentObj = {
     imgUrl: HomeSrc,
     altTxt: "Home Image",
     content: "Welcome to the home page!"

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Reliability",
 };
 export default function Reliability() {
-  let contentObj = {
+  const contentObj = {
     imgUrl: reliabilitySrc,
     altTxt: "reliability Image",
     content: "Welcome to the reliability page!",
