@@ -9,7 +9,7 @@ export default function Performance() {
   const contentObj = {
     imgUrl: performanceSrc,
     altTxt: "performanceSrc Image",
-    content: "Welcome to the performance page!",
+    content: "We serve high performance applications",
   }
   return (
     <>

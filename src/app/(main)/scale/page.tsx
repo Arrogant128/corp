@@ -9,7 +9,7 @@ export default function Scale() {
   const contentObj = {
     imgUrl: scaleSrc,
     altTxt: "scale Image",
-    content: "Welcome to the scale page!"
+    content: "Scale your app to infinity"
   }
   return (
     <>

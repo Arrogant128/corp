@@ -10,7 +10,7 @@ export default function Reliability() {
   const contentObj = {
     imgUrl: reliabilitySrc,
     altTxt: "reliability Image",
-    content: "Welcome to the reliability page!",
+    content: "Super high reliability hosting",
   }
   return (
     <>
